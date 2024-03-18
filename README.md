@@ -44,6 +44,10 @@ pip install tiktoken
 pip install faiss-cpu
 pip install selenium
 ```
+**Architecture**
+
+![Project_Architecture](https://github.com/richiectr360/resume-analyzer-using-generative-ai-llm/blob/main/Workflow%20Architecture.png)
+
 
 **Usage**
 
