@@ -1,4 +1,4 @@
-#Resume Analyzer and LinkedIn Job Scraper
+# Resume Analyzer and LinkedIn Job Scraper
 
 **Introduction**
 
