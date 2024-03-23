@@ -11,23 +11,23 @@ Resume Analyzer AI" leverages the power of LLM and OpenAI as an advanced Streaml
 
 ![Summary](https://github.com/richiectr360/resume-analyzer-using-generative-ai-llm/blob/main/images/summary.png "Summary Visualization")
 
-## Strengths Analysis
+**Strengths**
 
 ![Strength](https://github.com/richiectr360/resume-analyzer-using-generative-ai-llm/blob/main/images/strength.png "Strengths Analysis")
 
-## Weaknesses Analysis
+**Weaknesses**
 
 ![Weakness](https://github.com/richiectr360/resume-analyzer-using-generative-ai-llm/blob/main/images/weakness.png "Weaknesses Analysis")
 
-## Identified Job Titles
+**Identified Job Titles**
 
 ![Job Titles](https://github.com/richiectr360/resume-analyzer-using-generative-ai-llm/blob/main/images/job%20titles.png "Identified Job Titles")
 
-## LinkedIn Jobs Visualization
+**Find Linkedin Jobs for that Position**
 
 ![LinkedIn Jobs](https://github.com/richiectr360/resume-analyzer-using-generative-ai-llm/blob/main/images/linkedin_jobs.png "LinkedIn Jobs Visualization")
 
-## List of LinkedIn Jobs
+**List of Linkedin Jobs**
 
 ![List LinkedIn Jobs](https://github.com/richiectr360/resume-analyzer-using-generative-ai-llm/blob/main/images/list_linkedin_jobs.png "List of LinkedIn Jobs")
 
